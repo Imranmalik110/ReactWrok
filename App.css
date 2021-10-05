@@ -1,0 +1,21 @@
+.nav-link
+{
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 10px 20px;
+    border-collapse: collapse;
+    color: crimson;
+    text-transform: uppercase;
+}
+.nav-link a:hover
+{
+    background-color: rgb(20, 40, 220);
+}
+p
+{
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
